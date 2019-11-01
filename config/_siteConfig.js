@@ -12,7 +12,7 @@ export default {
   siteName: 'Good To Hear News ',
   tagline: 'Good To Hear News brings encouraging, educational and interesting news to you all in one platform ',
   featureImage: '/uploads/home-hero.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: '/logo.svg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
