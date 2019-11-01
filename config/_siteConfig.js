@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Good To Hear News ',
+  tagline: 'Good To Hear News brings encouraging, educational and interesting news to you all in one platform ',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -30,13 +30,9 @@ export default {
       name: 'Categories',
       link: '/categories'
     },
+
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
+      name: 'Premium',
       link: 'http://awake-premium-lp.danielkelly.io/',
       target: '_blank'
     }
@@ -74,7 +70,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+      "https://gmail.us5.list-manage.com/subscribe/post?u=0b3118ce3bd1a377f83fe95b9&amp;id=de74617518"
     },
     custom: {
       on: false,
