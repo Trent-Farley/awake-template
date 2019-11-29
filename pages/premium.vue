@@ -66,7 +66,7 @@ input[type='submit']:hover {
 </style>
 <template>
   <div class="container">
-    <form name="premium" netflify>
+    <form name="premium" method="POST" data-netlify="true">
       <div class="row">
         <div class="col-25">
           <label for="fname">First Name</label>
