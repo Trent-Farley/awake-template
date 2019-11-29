@@ -10,7 +10,8 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Good To Hear News ',
-  tagline: 'Good To Hear News brings encouraging, educational and interesting news to you all in one platform ',
+  tagline:
+    'Good To Hear News brings encouraging, educational and interesting news to you all in one platform ',
   featureImage: '/uploads/home-hero.jpg',
   logo: '/logo.svg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -29,8 +30,7 @@ export default {
 
     {
       name: 'Premium',
-      link: 'http://awake-premium-lp.danielkelly.io/',
-      target: '_blank'
+      link: '/premium'
     }
   ],
   hero: {
@@ -66,7 +66,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-      "https://gmail.us5.list-manage.com/subscribe/post?u=0b3118ce3bd1a377f83fe95b9&amp;id=de74617518"
+        'https://gmail.us5.list-manage.com/subscribe/post?u=0b3118ce3bd1a377f83fe95b9&amp;id=de74617518'
     },
     custom: {
       on: false,
