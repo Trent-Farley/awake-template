@@ -1,5 +1,12 @@
 <template>
   <div id="post-page" class="page-wrapper post-page">
+    <head>
+      <script
+        data-ad-client="ca-pub-3479678350949786"
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+      ></script>
+    </head>
     <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
       <span
         v-if="author && $siteConfig.posts.displayAuthor"
@@ -56,7 +63,7 @@ export default {
       return getFormattedDate(this.$store.state.date)
     },
     url() {
-      return `${process.env.URL}/${this.$route.fullPath}`
+      return `${process.env.URL}/posts/${this.$route.fullPath}`
     }
   },
   fetch({ store, params }) {

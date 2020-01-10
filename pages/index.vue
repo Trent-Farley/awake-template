@@ -1,5 +1,12 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
+    <head>
+      <script
+        data-ad-client="ca-pub-3479678350949786"
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+      ></script>
+    </head>
     <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
       <button
         class="button is-primary"

@@ -26,11 +26,6 @@ export default {
     {
       name: 'Categories',
       link: '/categories'
-    },
-
-    {
-      name: 'Premium',
-      link: '/premium'
     }
   ],
   hero: {
@@ -53,7 +48,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'good-to-hear-news' // 'blog-danielkelly-io'
+    siteShortName: 'good-to-hear-news'
   },
 
   // Newsletter Subscribe
