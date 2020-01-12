@@ -1,10 +1,20 @@
+/* eslint-disable vue/html-closing-bracket-newline */ /* eslint-disable
+prettier/prettier */
 <template>
+  <!-- prettier-ignore-attribute -->
   <footer class="site-footer">
     {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }} - All
     Rights Reserved
     <br />
-    Made with <span style="color: #e25555;">&#9829;</span> with Nuxt.js and
-    Netlify
+    <a
+      href="https://www.patreon.com/bePatron?u=29177112"
+      data-patreon-widget-type="become-patron-button"
+      >Become·a·Patron!</a
+    >
+    <script
+      asyncn
+      src="https://c6.patreon.com/becomePatronButton.bundle.js"
+    ></script>
   </footer>
 </template>
 

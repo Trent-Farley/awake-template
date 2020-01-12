@@ -4,6 +4,13 @@
       `site-layout-width-${$siteConfig.layout.width} posts-theme-${$siteConfig.posts.theme}`
     "
   >
+    <head>
+      <script
+        data-ad-client="ca-pub-3479678350949786"
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+      ></script>
+    </head>
     <site-nav />
     <nuxt />
     <news-letter-slide-out v-if="$siteConfig.newsletter.on" />

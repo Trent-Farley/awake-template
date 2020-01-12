@@ -7,6 +7,13 @@
       :srcset="responsiveImage.srcSet"
     />
     <div class="hero-body">
+      <head>
+        <script
+          data-ad-client="ca-pub-3479678350949786"
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+        ></script>
+      </head>
       <div class="container">
         <h1 class="title animated fadeInUp">
           {{ title }}

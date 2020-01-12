@@ -1,5 +1,11 @@
 <template>
-  <v-runtime-template class="content" :template="content"></v-runtime-template>
+  <v-runtime-template class="content" :template="content">
+    <script
+      data-ad-client="ca-pub-3479678350949786"
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+    ></script>
+  </v-runtime-template>
 </template>
 
 <script>

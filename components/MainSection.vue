@@ -1,5 +1,12 @@
 <template>
   <main class="section page-main-section">
+    <head>
+      <script
+        data-ad-client="ca-pub-3479678350949786"
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+      ></script>
+    </head>
     <div class="container">
       <div class="columns">
         <aside
