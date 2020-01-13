@@ -1,10 +1,16 @@
 ---
-title: Test
-subtitle: testing it
+title: 'Dog Saves The Enviroment '
+subtitle: Pupper cleans beaches by retrieving trash
 category:
   - main
 author: Trent Farley
 date: 2019-10-30T02:44:28.359Z
-featureImage: /uploads/document.jpeg
+featureImage: uploads/perra.jpg
 ---
-just trying it out
+Lila (pictured above) helosp her owner pick up trash along the beaches of South Florida. Not only is this amazing dog cleaning the beaches, she is also diving into the ocean to grab even more trash. Her dives can go as deep as 15 ft with a pretty high sucess rate. 
+
+![Lila with her find from the ocean](uploads/lila water.PNG "Lila with her wattle bottle found in the ocean floor")
+
+Whenever Lila is not saving the world one iece of trash at attime, she is riding in her Wuff wagon looking for new places to clean. 
+
+![](uploads/lila wagon.PNG)
