@@ -32,9 +32,9 @@
           <disqus-comments :identifier="$route.params.singlePost" />
         </div>
       </template>
-      <template v-slot:sidebar>
-        <post-sidebar />
-      </template>
+      //<template v-slot:sidebar>
+      //  <post-sidebar />
+      //</template>
     </main-section>
   </div>
 </template>
