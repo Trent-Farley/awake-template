@@ -2,7 +2,7 @@
 title: 'Dog Saves The Enviroment '
 subtitle: Pupper cleans beaches by retrieving trash
 category:
-  - main
+  - Good Puppers
 author: Trent Farley
 date: 2019-10-30T02:44:28.359Z
 featureImage: uploads/perra.jpg
