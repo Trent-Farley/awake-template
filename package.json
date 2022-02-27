@@ -48,7 +48,7 @@
     "slate": "^0.50.0",
     "slate-edit-list": "^0.12.1",
     "slate-edit-table": "^0.18.0",
-    "url-parse": "^1.4.7",
+    "url-parse": "^1.5.8",
     "v-runtime-template": "^1.10.0",
     "vue-disqus": "^3.0.5"
   },
